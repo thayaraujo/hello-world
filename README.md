@@ -1,3 +1,3 @@
 # hello-world
-Primeiro repositório - estudos
+Primeiro repositório - estudos.
 Iniciando no GitHub
